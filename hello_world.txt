@@ -1,1 +1,1 @@
-Using git status for the first time 
+Using git status for the first time is it not cool
