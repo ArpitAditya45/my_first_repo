@@ -1,0 +1,1 @@
+Using git status for the first time 
